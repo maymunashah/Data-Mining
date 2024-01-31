@@ -44,7 +44,7 @@ We have transformed the original dataset into CSV files for ease of use and acce
 
 1. **Dataset Access:**
    - The original dataset can be accessed [here](https://archive.ics.uci.edu/dataset/205/opinrank+review+dataset).
-   - Our processed CSV files are available in the 'data' directory.
+   - Our processed CSV files are available in the [here](https://www.kaggle.com/datasets/memoonashah/openrank-dataset-structures-cars-and-hotel-reviews/code).
 
 2. **Code and Models:**
    - The 'code' directory contains Jupyter notebooks and Python scripts detailing the sentiment analysis using the specified models and techniques.
